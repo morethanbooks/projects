@@ -1,0 +1,76 @@
+id	type	Label	FreqSum	subtype	gender
+andu	pla	Anduin	109	pla	
+arag	per	Aragorn	1069	men	male
+arat	per	Arathorn	36	men	male
+arwe	per	Arwen	51	elves	female
+bage	pla	Bag End	77	pla	
+bali	per	Balin	30	dwarf	male
+bere	per	Beregond	77	men	male
+bilb	per	Bilbo	385	hobbit	male
+bill	per	Bill	45	animal	male
+boro	per	Boromir	293	men	male
+bree	pla	Bree	164	pla	
+cele	per	Celeborn	51	elves	male
+comp	gro	Company	160	mixed	
+dene	per	Denethor	168	men	male
+dtow	pla	Dark Tower	33	pla	
+duri	per	Durin	54	dwarf	male
+dwar	gro	Dwarves	122	dwarf	
+edor	pla	Edoras	55	pla	
+elen	per	Elendil	89	men	male
+elro	per	Elrond	240	elves	male
+elve	gro	Elves	292	elves	
+ents	gro	Ents	136	ents	
+eome	per	Éomer	238	men	male
+eorl	per	Eorl	56	men	male
+eowy	per	Éowyn	115	men	female
+oldf	pla	Old Forest	19	pla	
+mirk	pla	Mirkwood	58	pla	
+fara	per	Faramir	313	men	male
+frod	per	Frodo	2040	hobbit	male
+gala	per	Galadriel	95	elves	female
+ganda	per	Gandalf	1235	ainur	male
+gber	per	Goldberry	32	ainur	female
+gild	per	Gildor	32	elves	male
+gimli	per	Gimli	403	dwarf	male
+gloi	per	Glóin	52	dwarf	male
+glorf	per	Glorfindel	43	elves	male
+goll	per	Gollum	581	hobbit	male
+gond	pla	Gondor	442	pla	
+gorb	per	Gorbag	30	orcs	male
+grim	per	Wormtongue	65	men	male
+hald	per	Haldir	44	elves	male
+helm	pla	Helm	80	pla	
+hobb	gro	Hobbits	127	hobbit	
+hton	pla	Hobbiton	59	pla	
+isen	pla	Isengard	165	pla	
+isil	per	Isildur	103	men	male
+lego	per	Legolas	346	elves	male
+lori	pla	Lórien	97	pla	
+loth	pla	Lothlórien	42	pla	
+mdoo	pla	Mount Doom	12	pla	
+merr	per	Merry	595	hobbit	male
+mord	pla	Mordor	265	pla	
+morg	pla	Morgul	72	pla	
+mori	pla	Moria	131	pla	
+nazg	gro	Nine Riders	54	men	
+nume	pla	Númenor	62	pla	
+orth	pla	Orthanc	83	pla	
+osgi	pla	Osgiliath	50	pla	
+pipp	per	Pippin	771	hobbit	male
+ring	thin	Ring	427	thing	
+rive	pla	Rivendell	145	pla	
+roha	pla	Rohan	263	pla	
+sams	per	Sam	1400	hobbit	male
+saru	per	Saruman	312	ainur	male
+saur	per	Sauron	339	ainur	male
+sfax	per	Shadowfax	78	animal	male
+shel	per	Shelob	40	animal	female
+shir	pla	Shire	411	pla	
+theod	per	Théoden	246	men	male
+thor	per	Thorin	40	dwarf	male
+thra	per	Thráin	33	dwarf	male
+tiri	pla	Minas Tirith	110	pla	
+tomb	per	Bombadil	177	ainur	male
+treeb	per	Treebeard	221	ents	male
+orcs	gro	Orcs	321	orcs	

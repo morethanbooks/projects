@@ -1,0 +1,93 @@
+name	freq	type	id	repeated	normalizedName	key	FreqSum
+Anduin	109	pla	andu	0	Anduin	1	109
+Elessar	37	per	arag	1	Elessar	0	1069
+Strider	233	per	arag	1	Strider	0	1069
+Aragorn	799	per	arag	1	Aragorn	1	1069
+Arathorn	36	per	arat	0	Arathorn	1	36
+Arwen	51	per	arwe	0	Arwen	1	51
+Bag End	77	pla	bage	0	Bag End	1	77
+Balin	30	per	bali	0	Balin	1	30
+Beregond	77	per	bere	0	Beregond	1	77
+Bilbo	385	per	bilb	0	Bilbo	1	385
+Bill	45	per	bill	0	Bill	1	45
+Boromir	293	per	boro	0	Boromir	1	293
+Bree	164	pla	bree	0	Bree	1	164
+Celeborn	51	per	cele	0	Celeborn	1	51
+Company	160	gro	comp	0	Company	1	160
+Denethor	168	per	dene	0	Denethor	1	168
+Dark Tower	33	pla	dtow	0	Dark Tower	1	33
+Durin	54	per	duri	0	Durin	1	54
+Dwarves	122	gro	dwar	0	Dwarves	1	122
+Edoras	55	pla	edor	0	Edoras	1	55
+Elendil	89	per	elen	0	Elendil	1	89
+Elrond	240	per	elro	0	Elrond	1	240
+Elves	292	gro	elve	0	Elves	1	292
+Ents	136	gro	ents	0	Ents	1	136
+Éomer	238	per	eome	0	Éomer	1	238
+Eorl	56	per	eorl	0	Eorl	1	56
+Éowyn	115	per	eowy	0	Éowyn	1	115
+Old Forest	19	pla	oldf	0	Old Forest	1	19
+Mirkwood	58	pla	mirk	0	Mirkwood	1	58
+Faramir	313	per	fara	0	Faramir	1	313
+Frodo	2040	per	frod	0	Frodo	1	2040
+Galadriel	95	per	gala	0	Galadriel	1	95
+Mithrandir	53	per	ganda	1	Mithrandir	0	1235
+Gandalf	1182	per	ganda	1	Gandalf	1	1235
+Goldberry	32	per	gber	0	Goldberry	1	32
+Gildor	32	per	gild	0	Gildor	1	32
+Gimli	403	per	gimli	0	Gimli	1	403
+Glóin	52	per	gloi	0	Glóin	1	52
+Glorfindel	43	per	glorf	0	Glorfindel	1	43
+Sméagol	158	per	goll	1	Sméagol	0	581
+Gollum	423	per	goll	1	Gollum	1	581
+Gondor	442	pla	gond	0	Gondor	1	442
+Gorbag	30	per	gorb	0	Gorbag	1	30
+Wormtongue	65	per	grim	0	Wormtongue	1	65
+Haldir	44	per	hald	0	Haldir	1	44
+Helm	80	pla	helm	0	Helm	1	80
+Hobbits	127	gro	hobb	0	Hobbits	1	127
+Hobbiton	59	pla	hton	0	Hobbiton	1	59
+Isengard	165	pla	isen	0	Isengard	1	165
+Isildur	103	per	isil	0	Isildur	1	103
+Legolas	346	per	lego	0	Legolas	1	346
+Lórien	97	pla	lori	0	Lórien	1	97
+Lothlórien	42	pla	loth	0	Lothlórien	1	42
+Mount Doom	12	pla	mdoo	0	Mount Doom	1	12
+Master Meriadoc	5	per	merr	1	Master Meriadoc	0	595
+Meriadoc	44	per	merr	1	Meriadoc	0	595
+Merry	546	per	merr	1	Merry	1	595
+Mordor	265	pla	mord	0	Mordor	1	265
+Morgul	72	pla	morg	0	Morgul	1	72
+Moria	131	pla	mori	0	Moria	1	131
+Nine Riders	7	gro	nazg	1	Nine Riders	1	54
+Black Rider	14	gro	nazg	1	Black Rider	0	54
+Black Riders	33	gro	nazg	1	Black Riders	0	54
+Númenor	62	pla	nume	0	Númenor	1	62
+Orthanc	83	pla	orth	0	Orthanc	1	83
+Osgiliath	50	pla	osgi	0	Osgiliath	1	50
+Peregrin Took	9	per	pipp	1	Peregrin Took	0	771
+Master Peregrin	11	per	pipp	1	Master Peregrin	0	771
+Peregrin	64	per	pipp	1	Peregrin	0	771
+Pippin	687	per	pipp	1	Pippin	1	771
+Ring	427	per	ring	0	Ring	1	427
+Rivendell	145	pla	rive	0	Rivendell	1	145
+Rohan	263	pla	roha	0	Rohan	1	263
+Gamgee	48	per	sams	1	Gamgee	0	1400
+Samwise	59	per	sams	1	Samwise	0	1400
+Sam	1293	per	sams	1	Sam	1	1400
+Saruman	312	per	saru	0	Saruman	1	312
+Dark Lord	50	per	saur	1	Dark Lord	0	339
+Eye	43	per	saur	1	Eye	0	339
+Sauron	246	per	saur	1	Sauron	1	339
+Shadowfax	78	per	sfax	0	Shadowfax	1	78
+Shelob	40	per	shel	0	Shelob	1	40
+Shire	411	pla	shir	0	Shire	1	411
+Théoden	246	per	theod	0	Théoden	1	246
+Thorin	40	per	thor	0	Thorin	1	40
+Thráin	33	per	thra	0	Thráin	1	33
+Minas Tirith	110	pla	tiri	0	Minas Tirith	1	110
+Bombadil	39	per	tomb	1	Bombadil	1	177
+Tom	138	per	tomb	1	Tom	0	177
+Fangorn	67	per	treeb	1	Fangorn	0	221
+Treebeard	154	per	treeb	1	Treebeard	1	221
+Orcs	321	gro	orcs	1	Orcs	1	321
